@@ -1,1 +1,8 @@
-# Terraform Multi-Service IaC\nLive EC2 IP: TBD\n\nterraform apply → Docker auto-deploy!
+
+## Screenshots
+![Terraform Plan](docs/terraform-plan.png)
+![EC2 Live](docs/ec2-site.png)
+![Docker Running](docs/docker-ps.png)
+
+## Destroy (Cost Control)
+terraform destroy
