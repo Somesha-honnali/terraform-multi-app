@@ -1,0 +1,8 @@
+# Local / Secrets
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+.terraformrc
